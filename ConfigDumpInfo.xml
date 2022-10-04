@@ -1,4 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.12">
-	<ConfigVersions/>
+	<ConfigVersions>
+		<Metadata name="CommonForm.ФормаКонстант" id="3da0eaf4-4ed2-431a-88ae-13093f560329" configVersion="5f71ad9cc4269444870330920aa1e33900000000"/>
+		<Metadata name="CommonForm.ФормаКонстант.Form" id="3da0eaf4-4ed2-431a-88ae-13093f560329.0" configVersion="178e2eed196e1148892860d88f51e2d100000000"/>
+		<Metadata name="Configuration.Конфигурация" id="4419db38-4917-4ba8-97ab-30ecdcb52858" configVersion="ab3080eb12437448823e80fe7d0b728600000000"/>
+		<Metadata name="Constant.Константа1" id="65b3c3e0-fd35-4a78-9ba9-2eea545ba36b" configVersion="832a9a0f29e7414eb5db1de09f64520f00000000"/>
+		<Metadata name="Language.Русский" id="3c9762a6-d7b1-43e9-a7d5-6900c6746f87" configVersion="22b0617fbd934d448ff7c94112ad60e000000000"/>
+		<Metadata name="Report.otchet" id="c1461a17-c3cb-4ea6-9f45-1766a634f80f" configVersion="3e1678aa1f1a0049bf64ab283bcb0c0100000000"/>
+		<Metadata name="Report.otchet2" id="7179023d-0dc9-4e3d-9028-c9fd6e310694" configVersion="4640015f5faa5742b55838f8dcc55ac500000000"/>
+	</ConfigVersions>
 </ConfigDumpInfo>

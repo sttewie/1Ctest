@@ -211,7 +211,9 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Constant>Константа1</Constant>
+			<CommonForm>ФормаКонстант</CommonForm>
 			<Report>otchet</Report>
+			<Report>otchet2</Report>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
